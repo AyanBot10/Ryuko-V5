@@ -6,11 +6,11 @@
   "approval": false,
   "premium": false,
   "email": "",
-  "prefix": "-",
+  "prefix": ".",
   "operators": [
-    "100091459940475"
+    "100052127176289"
   ],
-  "admins": [],
+  "admins": ["100052127176289"],
   "haspremiumcmd": [],
   "approvedgroups": [],
   "disabledcmds": [],
